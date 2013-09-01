@@ -1,0 +1,28 @@
+{
+  "name": "mongo-uuid",
+  "version": "0.1.0",
+  "authors": [
+    "Srinivasan Raguraman <srinivasan.raguraman@gmail.com>"
+  ],
+  "description": "uuid helpers for mongo shell",
+  "main": "lib/mongo-uuid.js",
+  "keywords": [
+    "mongo",
+    "uuid",
+    "csuuid",
+    "nuuid",
+    "juuid"
+  ],
+  "license": "MIT",
+  "homepage": "sragu.github.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  }
+}
