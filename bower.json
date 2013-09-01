@@ -14,7 +14,7 @@
     "juuid"
   ],
   "license": "MIT",
-  "homepage": "sragu.github.com",
+  "homepage": "http://github.com/sragu/mongo-uuid",
   "ignore": [
     "**/.*",
     "node_modules",
